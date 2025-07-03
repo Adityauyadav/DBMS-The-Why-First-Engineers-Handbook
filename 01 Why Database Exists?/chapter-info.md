@@ -30,6 +30,20 @@ It’s not just about storing data — it’s about managing it:
 - **Consistently**
 - **Scalably**
 
+---
+### 💡 The Bigger Software Picture
+
+As Martin Kleppmann puts it in *Designing Data-Intensive Applications*, most modern systems need to prioritize:
+
+1. **Reliability** – The system should work correctly even in the face of faults  
+2. **Scalability** – It should handle increased load or volume gracefully  
+3. **Maintainability** – Easy to evolve, debug, and understand over time  
+
+A well-structured DBMS helps meet all three — making it one of the **core pillars of any serious software architecture**.
+
+---
+
+
 This chapter is here to help you understand:
 - Why DBMS exists in the first place
 - What problems it solves (compared to basic file systems)
